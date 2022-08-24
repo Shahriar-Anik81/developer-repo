@@ -1,16 +1,66 @@
-.a {
-    font-size: large;
+body {
+    margin: 0px;
 }
 
-.b {
-    font-size: large;
+.a {
+    font-size: 50px;
     color: darkmagenta;
 }
 
-.1st {
+.o {
+    font-size: 50px;
+}
+
+.b {
+    font-size: 50px;
+
+}
+
+.top-banner {
+    display: flex;
+    padding: 50px 50px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.middle-banner {
+    display: flex;
+    padding: 50px 50px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.1st-half {
     width: 40%;
 }
 
-.2nd {
+.2nd-half {
+    width: 60%;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    padding: 20px 30px;
+    color: beige;
+    background-image: linear-gradient(orange, red);
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+
+
+.anik {
     width: 40%;
+}
+
+.adnan {
+    width: 60%;
 }
