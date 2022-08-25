@@ -64,3 +64,43 @@ h3 {
 .adnan {
     width: 60%;
 }
+
+.experience {
+    padding: 50px 30px;
+}
+
+.parent {
+    display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.pro {
+    width: 40%;
+    padding-left: 50px;
+    box-shadow: -10px 10px 20px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.beginner {
+    width: 40%;
+    padding-left: 50px;
+    box-shadow: -10px 10px 20px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.orange {
+    color: orange;
+}
+
+.xyz {
+    font-size: 40px;
+}
+
+.exp {
+    font-size: 35px;
+}
