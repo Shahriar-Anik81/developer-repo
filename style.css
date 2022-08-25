@@ -81,6 +81,7 @@ h3 {
     box-shadow: -10px 10px 20px gray;
     margin-left: 5%;
     margin-right: 5%;
+    border-left: 7px solid #F8755F;
 
 }
 
@@ -90,6 +91,7 @@ h3 {
     box-shadow: -10px 10px 20px gray;
     margin-left: 5%;
     margin-right: 5%;
+    border-left: 7px solid blue;
 
 }
 
@@ -103,4 +105,8 @@ h3 {
 
 .exp {
     font-size: 35px;
+}
+
+footer {
+    text-align: center;
 }
